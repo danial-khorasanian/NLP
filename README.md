@@ -1,4 +1,4 @@
-# Sequential Decision-Making Optimization
+# Natural Language Processing
 
 This repository corresponds to the "Natural Language Processing" chapter in the Book "[Creative Artificial Intelligence for Discovery Automation](https://www.cai4discovery.com)" written by Danial Khorasanian. 
 
