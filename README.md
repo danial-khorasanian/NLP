@@ -24,7 +24,8 @@ This repository corresponds to the "Natural Language Processing" chapter in the 
 - Model Evaluation
   - Exact Match Metrics
   - Fuzzy Metrics
-
+<br>
+<br>
   <p align="center">
   <img src="main/nlp_chapter.gif" width="500"/>
   <br>
